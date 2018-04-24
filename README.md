@@ -13,3 +13,8 @@ Features include:
 5. Review Exam 
     - Instructor can change points and add any additional feedback
     
+Demo: https://web.njit.edu/~dnj4/490/RC/login.php
+      Login credentials
+      (Instructor) Username: dnj4 Password: dev1234
+      (Student) Username: mds39 Password: meet1234
+    
